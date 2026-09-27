@@ -30,11 +30,11 @@ export default function Explore() {
 				<div className={ExploreStyles.hospitalmap_container}>
 					<ExploreHospital />
 
-					{/* <Wrapper apiKey={'AIzaSyARdyiVgmpt9uzYygnCgPohTvEOW1FJGnU'} render={render}> */}
+					
 
 					<ExploreMaps />
 
-					{/* </Wrapper> */}
+					
 				</div>
 			</div>
 			<Footer />
